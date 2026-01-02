@@ -64,7 +64,7 @@ differences in optimization paths.
 
 - **Uncertainty Quantification:**  
   Parametric bootstrap percentile confidence intervals for
-  \((\pi, \mu, \sigma^2)\) are nearly identical for EM and SQUAREM, confirming
+  (pi, mu, sigma^2) are nearly identical for EM and SQUAREM, confirming
   that acceleration does not affect inferential validity.
 
 ---
